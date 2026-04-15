@@ -64,6 +64,10 @@ db.sqlite3-journal
 # Flask stuff:
 instance/
 .webassets-cache
+backend/mount_faber.db
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
 
 # Scrapy stuff:
 .scrapy
